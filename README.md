@@ -1,5 +1,13 @@
-# music
-음악 기본 이론 정리
+#Museum
 
-2022.07.14.목   등록
-    이그노리 파일 등록 : 작동 되는 지는 모름
+박물관
+
+
+git clone https://github.com/kimdaehee5609/Museum.git
+
+
+2022.08.09.화   등록
+    
+    국립경주박물관 다녀와서 만듬
+
+
